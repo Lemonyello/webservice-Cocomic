@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:15:31:30 +0700] "GET /webserviceThuvien/rest/Service/POJOTest HTTP/1.1" 200 97 http-bio-7071-exec-1 174
+0:0:0:0:0:0:0:1 - - [10/Aug/2021:15:31:30 +0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-7071-exec-3 0

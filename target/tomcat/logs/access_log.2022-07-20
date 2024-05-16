@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [20/Jul/2022:10:07:28 +0700] "GET /webserviceThuvien/rest/Service/comic-list?page=1 HTTP/1.1" 200 2 http-bio-7071-exec-1 2174
+0:0:0:0:0:0:0:1 - - [20/Jul/2022:10:11:09 +0700] "GET /webserviceThuvien/rest/Service/comic-list?page=1 HTTP/1.1" 200 2 http-bio-7071-exec-3 93
+0:0:0:0:0:0:0:1 - - [20/Jul/2022:10:11:26 +0700] "GET /webserviceThuvien/rest/Service/comic-list?page=1 HTTP/1.1" 200 2 http-bio-7071-exec-4 366
+0:0:0:0:0:0:0:1 - - [20/Jul/2022:10:13:58 +0700] "GET /webserviceThuvien/rest/Service/comic-chapter?chapterId=4E373577-D719-4092-9264-6BF0B100CAA6 HTTP/1.1" 404 - http-bio-7071-exec-6 15
+0:0:0:0:0:0:0:1 - - [20/Jul/2022:10:14:08 +0700] "GET /webserviceThuvien/rest/Service/comic-chapter-list?bookId=30 HTTP/1.1" 200 1887 http-bio-7071-exec-7 190
+0:0:0:0:0:0:0:1 - - [20/Jul/2022:10:14:28 +0700] "GET /webserviceThuvien/rest/Service/comic-info?bookId=31 HTTP/1.1" 200 751 http-bio-7071-exec-8 99
+0:0:0:0:0:0:0:1 - - [20/Jul/2022:10:18:38 +0700] "GET /webserviceThuvien/rest/Service/comic-list?page=1 HTTP/1.1" 200 2 http-bio-7071-exec-1 1706
+0:0:0:0:0:0:0:1 - - [20/Jul/2022:10:20:13 +0700] "GET /webserviceThuvien/rest/Service/comic-list?page=1 HTTP/1.1" 200 2 http-bio-7071-exec-1 1525
+0:0:0:0:0:0:0:1 - - [20/Jul/2022:10:21:28 +0700] "GET /webserviceThuvien/rest/Service/comic-list?page=1 HTTP/1.1" 200 2 http-bio-7071-exec-1 1576
+0:0:0:0:0:0:0:1 - - [20/Jul/2022:10:23:58 +0700] "GET /webserviceThuvien/rest/Service/comic-list?page=1 HTTP/1.1" 500 6626 http-bio-7071-exec-1 1650
+0:0:0:0:0:0:0:1 - - [20/Jul/2022:10:25:06 +0700] "GET /webserviceThuvien/rest/Service/comic-list?page=1 HTTP/1.1" 200 9068 http-bio-7071-exec-1 2104
+0:0:0:0:0:0:0:1 - - [20/Jul/2022:10:38:38 +0700] "GET /webserviceThuvien/rest/Service/comic-list?page=1 HTTP/1.1" 500 5981 http-bio-7071-exec-1 1854
+0:0:0:0:0:0:0:1 - - [20/Jul/2022:10:39:44 +0700] "GET /webserviceThuvien/rest/Service/comic-list?page=1 HTTP/1.1" 200 37686 http-bio-7071-exec-1 2080
+0:0:0:0:0:0:0:1 - - [20/Jul/2022:16:02:37 +0700] "GET /webserviceThuvien/rest/Service/user-read-history?userId=10099 HTTP/1.1" 200 1259 http-bio-7071-exec-1 1919

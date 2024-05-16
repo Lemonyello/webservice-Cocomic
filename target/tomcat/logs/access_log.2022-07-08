@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [08/Jul/2022:09:05:33 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB009%22,%20%22Masinhvien%22:%22679%22%7D HTTP/1.1" 200 90 http-bio-7071-exec-1 2449
+0:0:0:0:0:0:0:1 - - [08/Jul/2022:11:20:38 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB009%22,%20%22Masinhvien%22:%22679%22%7D HTTP/1.1" 500 - http-bio-7071-exec-1 150
+0:0:0:0:0:0:0:1 - - [08/Jul/2022:11:22:39 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB009%22,%20%22Masinhvien%22:%22679%22%7D HTTP/1.1" 500 6816 http-bio-7071-exec-1 236
+0:0:0:0:0:0:0:1 - - [08/Jul/2022:11:28:41 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB009%22,%20%22Masinhvien%22:%22679%22%7D HTTP/1.1" 500 - http-bio-7071-exec-1 124

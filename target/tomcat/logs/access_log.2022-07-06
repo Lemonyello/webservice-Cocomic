@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:27:32 +0700] "OPTIONS /webserviceThuvien/rest/Service/ThemPhieuMuon%7B%22Masach%22:%22CB001%22,%22Masinhvien%22:%22B18DCPT888%22%7D HTTP/1.1" 200 650 http-bio-7071-exec-1 112
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:27:32 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon%7B%22Masach%22:%22CB001%22,%22Masinhvien%22:%22B18DCPT888%22%7D HTTP/1.1" 405 - http-bio-7071-exec-3 6
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:31:37 +0700] "GET /webserviceThuvien/rest/Service/POJOTest HTTP/1.1" 200 97 http-bio-7071-exec-5 83
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:31:38 +0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-7071-exec-7 0
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:31:44 +0700] "GET /webserviceThuvien/rest/Service/ListPhieuMuon HTTP/1.1" 200 808 http-bio-7071-exec-8 1014
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:33:10 +0700] "OPTIONS /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB001%22,%22Masinhvien%22:%22B18DCPT888%22%7D HTTP/1.1" 200 541 http-bio-7071-exec-1 90
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:33:11 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB001%22,%22Masinhvien%22:%22B18DCPT888%22%7D HTTP/1.1" 200 64 http-bio-7071-exec-3 836
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:38:43 +0700] "OPTIONS /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB001%22,%22Masinhvien%22:%22B18DCPT333%22%7D HTTP/1.1" 200 541 http-bio-7071-exec-5 15
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:38:44 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB001%22,%22Masinhvien%22:%22B18DCPT333%22%7D HTTP/1.1" 200 64 http-bio-7071-exec-6 408
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:17:06:42 +0700] "GET /webserviceThuvien/rest/Service/GetPhieuMuonTheoMS/%7B%22Masach%22:%22CB002%22,%22Masinhvien%22:%22a%22,%22Ngaymuon%22:%22a-a-a%22,%22Ngaytra%22:%22a-a-a%22%7D HTTP/1.1" 200 229 http-bio-7071-exec-1 789

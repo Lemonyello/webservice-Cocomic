@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://Service.webserviceThuvien" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:impl="http://Service.webserviceThuvien" xmlns:intf="http://Service.webserviceThuvien" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--WSDL created by Apache Axis version: 1.4
+Built on Apr 22, 2006 (06:55:48 PDT)-->
+ <wsdl:types>
+  <schema elementFormDefault="qualified" targetNamespace="http://Service.webserviceThuvien" xmlns="http://www.w3.org/2001/XMLSchema">
+   <element name="getSach_JSON">
+    <complexType/>
+   </element>
+   <element name="getSach_JSONResponse">
+    <complexType>
+     <sequence>
+      <element name="getSach_JSONReturn" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+  </schema>
+ </wsdl:types>
+
+   <wsdl:message name="getSach_JSONResponse">
+
+      <wsdl:part element="impl:getSach_JSONResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="getSach_JSONRequest">
+
+      <wsdl:part element="impl:getSach_JSON" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:portType name="Service">
+
+      <wsdl:operation name="getSach_JSON">
+
+         <wsdl:input message="impl:getSach_JSONRequest" name="getSach_JSONRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:getSach_JSONResponse" name="getSach_JSONResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:portType>
+
+   <wsdl:binding name="ServiceSoapBinding" type="impl:Service">
+
+      <wsdlsoap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+
+      <wsdl:operation name="getSach_JSON">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getSach_JSONRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getSach_JSONResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:binding>
+
+   <wsdl:service name="ServiceService">
+
+      <wsdl:port binding="impl:ServiceSoapBinding" name="Service">
+
+         <wsdlsoap:address location="http://localhost:8080/webserviceThuvien/services/Service"/>
+
+      </wsdl:port>
+
+   </wsdl:service>
+
+</wsdl:definitions>

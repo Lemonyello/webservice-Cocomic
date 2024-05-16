@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:09:15:01 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB009%22,%20%22Masinhvien%22:%22679%22%7D HTTP/1.1" 500 - http-bio-7071-exec-1 178
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:09:17:31 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB009%22,%20%22Masinhvien%22:%22679%22%7D HTTP/1.1" 500 6816 http-bio-7071-exec-1 542
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:09:20:32 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB009%22,%20%22Masinhvien%22:%22679%22%7D HTTP/1.1" 415 - http-bio-7071-exec-1 141
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:09:21:43 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB009%22,%20%22Masinhvien%22:%22679%22%7D HTTP/1.1" 415 - http-bio-7071-exec-1 135
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:09:25:49 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB009%22,%20%22Masinhvien%22:%22679%22%7D HTTP/1.1" 415 - http-bio-7071-exec-1 106
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:09:27:07 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB009%22,%20%22Masinhvien%22:%22679%22%7D HTTP/1.1" 415 - http-bio-7071-exec-1 129
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:09:32:35 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB009%22,%20%22Masinhvien%22:%22679%22%7D HTTP/1.1" 200 64 http-bio-7071-exec-3 104
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:09:36:45 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon/%7B%22Masach%22:%22CB009%22,%20%22Masinhvien%22:%22679%22%7D HTTP/1.1" 404 - http-bio-7071-exec-1 112
+0:0:0:0:0:0:0:1 - - [13/Jul/2022:09:36:58 +0700] "POST /webserviceThuvien/rest/Service/ThemPhieuMuon HTTP/1.1" 200 87 http-bio-7071-exec-2 1752
